@@ -14,10 +14,7 @@
   },
   "dependencies": {
     "crypto-js": "^4.1.1",
-    "file-saver": "^2.0.5",
-    "jszip": "^3.7.1",
-    "mime": "^2.5.2",
-    "normalize.css": "^8.0.1"
+    "mime": "^2.5.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.4",
