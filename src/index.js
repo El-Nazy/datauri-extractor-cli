@@ -6,8 +6,8 @@ const read = promisify(fs.read);
 const close = promisify(fs.close);
 
 const filePath = './src/index.js';
-const bufferSize = 1; // Read one byte at a time
-const buffer = Buffer.alloc(bufferSize);
+const chunkSize = 1; // Read one byte at a time
+const buffer = Buffer.alloc(chunkSize);
 
 async function readFileInChunks() {
   const fd = await open(filePath, 'r');
