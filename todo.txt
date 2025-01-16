@@ -1,0 +1,8 @@
+Step thru the input file byte by byte
+
+extract data uri to a file
+
+append updated html to the html output file
+
+note the current byte per extraction for continuation
+
