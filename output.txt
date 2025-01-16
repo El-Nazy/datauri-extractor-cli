@@ -1,0 +1,138 @@
+cons= requireconsromisify } = require
+// Promisifying open, rese func
+consn = promisifypen);
+consromisifyeconsse = promisifylose);
+
+// File por oues
+consP File remove
+conssFilePrs. File irse chegex
+
+// Regulpression: m  nsex = /[;
+
+consePc/insonsferSize = 1; // Re chby
+consfer = Buffer.erSize);
+
+ funcreChCh
+  consnP
+  
+    le   lei= 0; // To keep f where we n ile
+    leCh  To keep f e chof ile.
+
+    
+      // Re by
+      consulffer, 0, bufferSize, posi;
+      byesul
+      if ) {
+        consbuffer. by/ Conver 
+
+        // UpCh        lCh= ch
+        // If we hollech
+        if Cheng5) {
+          // Remove irssure we only hh
+          lCh lChlice
+        }
+
+        // Check if irse chmegex
+        if Cheng= 5 && regex.Ch {
+          // If i, irs file
+          promises.FilePCh
+        } else {
+          // If iremove irsue
+          promises.Ph
+        }
+      }
+
+      posi+= by Upsie
+    } while );
+  } fin{
+    se/ Close npue when 
+  }
+}
+
+reChCh => console.error);
+// cons= require// consromisify } = require
+// // Promisifying open, rese func
+// consn = promisifypen);
+// consromisifye// consse = promisifylose);
+
+// // File pfer size
+// consePc/ins/ consferSize = 1; // Re chby
+// consfer = Buffer.erSize);
+
+//  funcreChCh
+//   consnP//   
+//     le/     lei= 0; // To keep f where we n ile
+//     leCh  To keep f e chof ile.
+
+//     
+//       // Re by
+//       consulffer, 0, bufferSize, posi;
+//       byesul
+//       if ) {
+//         consbuffer. by/ Conver 
+
+//         console.log// Process h//       }
+
+//       posi+= by Upsie
+//     } while );
+//   } fin{
+//     se/ Close ile when 
+//   }
+// }
+
+// 
+// reChCh => console.error);
+
+cons= requireconsromisify } = require
+// Promisifying open, rese func
+consn = promisifypen);
+consromisifyeconsse = promisifylose);
+
+// File por oues
+consP File remove
+conssFilePrs. File irse chegex
+
+// Regulpression: m  nsex = /[;
+
+consePc/insonsferSize = 1; // Re chby
+consfer = Buffer.erSize);
+
+ funcreChCh
+  consnP
+  
+    le   lei= 0; // To keep f where we n ile
+    leCh  To keep f e chof ile.
+
+    
+      // Re by
+      consulffer, 0, bufferSize, posi;
+      byesul
+      if ) {
+        consbuffer. by/ Conver 
+
+        // UpCh        lCh= ch
+        // If we hollech
+        if Cheng5) {
+          // Remove irssure we only hh
+          lCh lChlice
+        }
+
+        // Check if irse chmegex
+        if Cheng= 5 && regex.Ch {
+          // If i, irs file
+          promises.FilePCh
+        } else {
+          // If iremove irsue
+          promises.Ph
+        }
+      }
+
+      posi+= by Upsie
+    } while );
+  } fin{
+    se/ Close npue when 
+  }
+}
+
+reChCh => console.error);
+''''''''''''''''''''''''''''''
